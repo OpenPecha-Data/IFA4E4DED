@@ -1,0 +1,92 @@
+id: IFA4E4DED
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:20:46.202822'
+last_modified: '2022-06-17T11:20:46.202828'
+parser: null
+source_metadata:
+  title: Buddha Śākyamuni Prayers & Practices
+  language: fr
+  description: 'Lotsawa House presents the following texts as part of its Prayers
+    to Buddha Śākyamuni Series:'
+  volume:
+    fFB54:
+      title: Prayer for the Future of the Dharma
+      base_file: fFB54.txt
+      order: 1
+      parent: Aspiration Prayers
+    f4B6E:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      base_file: f4B6E.txt
+      order: 2
+      parent: Aspiration Prayers
+    f657F:
+      title: 'The Sage''s Powerful Words of Truth: A Prayer for the Spread of the
+        Omniscient Buddha''s Teachings'
+      base_file: f657F.txt
+      order: 3
+      parent: Aspiration Prayers
+    fF881:
+      title: Verses on the Buddha's Previous Lives
+      base_file: fF881.txt
+      order: 4
+      parent: History
+    f8713:
+      title: Short Praise of the Buddha's Deeds
+      base_file: f8713.txt
+      order: 5
+      parent: Buddha's Deeds
+    f50DE:
+      title: Praise of the Twelve Acts of the Buddha
+      base_file: f50DE.txt
+      order: 6
+      parent: Buddha's Deeds
+    f42DE:
+      title: 'Praise of the Buddha: With Skilful Means & Compassion...'
+      base_file: f42DE.txt
+      order: 7
+      parent: Buddha's Deeds
+    f6C60:
+      title: Verses of Homage to the Buddhas and Bodhisattvas Together with their
+        Mantras
+      base_file: f6C60.txt
+      order: 8
+      parent: Praise
+    f9DE4:
+      title: A Brief Practice of Paying Homage and Making Offerings to the Sixteen
+        Elders
+      base_file: f9DE4.txt
+      order: 9
+      parent: Sādhanas
+    f6426:
+      title: 'The Heart of Wish-Fulfilling Jewels: A Brief Practice for Paying Homage
+        and Making Offerings to the Buddha together with his retinue of Arhats'
+      base_file: f6426.txt
+      order: 10
+      parent: Sādhanas
+    f13E8:
+      title: A Practice of Paying Homage and Making Offerings to the Sixteen Elders
+      base_file: f13E8.txt
+      order: 11
+      parent: Sādhanas
+    fC05C:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      base_file: fC05C.txt
+      order: 12
+      parent: Sādhanas
+    f6FD6:
+      title: 'The Sage who Dispels Mind’s Anguish: Advice from the Guru, the Gentle
+        Protector Mañjuśrī on the Means of Accomplishing the Yogas of Śamatha and
+        Vipaśyanā'
+      base_file: f6FD6.txt
+      order: 13
+      parent: Commentaries
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
